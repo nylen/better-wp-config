@@ -307,5 +307,5 @@ return array(
 ```
 
 ## That's it!  You are done!
-But if you have any **need for support**, feel free to ask questions on our Slack _([_**join here**_](https://launchpass.com/wplib))_ and/or on Github by submitting [**an issue**](https://github.com/wplib/better-wp-config/issues/new), or even better, a [**pull request**](https://github.com/wplib/better-wp-config/compare).
+But if you have any **need for support**, feel free to ask questions on our Slack _([_**join here**_](https://launchpass.com/wplib)) and then go to the **#wp-config** channel_ and/or on Github by submitting [**an issue**](https://github.com/wplib/better-wp-config/issues/new), or even better, a [**pull request**](https://github.com/wplib/better-wp-config/compare).
 
